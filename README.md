@@ -41,7 +41,7 @@
 
 🗂️ 專案結構
 
-Todo_list/
+To-do_list/
 
 run.py                  # 啟動 Flask 應用
 
@@ -98,9 +98,9 @@ edit.html        # 編輯待辦事項頁
 
 1. 複製專案
    
-   git clone https://github.com/PoJungHsiao/Todo_list.git
+   git clone https://github.com/PoJungHsiao/To-do_list.git
    
-   cd Todo_list
+   cd To-do_list
 
 2. 建立虛擬環境並安裝套件
    
